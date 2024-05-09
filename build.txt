@@ -3,5 +3,7 @@
 
 Rails is not currently installed on this system. To get the latest version, simply type:
 
-$ sudo gem install rails
+sudo gem install rails
+
+rails -v
 
