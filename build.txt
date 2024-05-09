@@ -1,9 +1,15 @@
 
-(base) shun_ishii@shunnoMacBook-puro ~ % rails -v
+
+ruby -v
+
+ruby 2.6.10p210 (2022-04-12 revision 67958) [universal.x86_64-darwin22]
+
+rails -v
 
 Rails is not currently installed on this system. To get the latest version, simply type:
 
 sudo gem install rails
 
-rails -v
+But, install resulted in failure
+
 
