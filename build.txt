@@ -1,9 +1,0 @@
-
-
-brew install ruby
-
-ruby -v
-
-ruby 2.6.10p210 (2022-04-12 revision 67958) [universal.x86_64-darwin22]
-no version up since then (2026-05-18)
-
