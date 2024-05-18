@@ -56,3 +56,11 @@ rails -v
 Rails 7.1.3.3
 
 ------------------------------
+
+% sudo gem install bundler
+
+% bundler -v
+
+Bundler version 2.5.10
+
+------------------------------
